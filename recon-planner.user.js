@@ -1,5 +1,5 @@
 // ==UserScript==
-// @id           recon-planner@NvlblNm
+// @id           recon-planner
 // @name         IITC plugin: Recon Planner
 // @category     Layer
 // @version      1.182

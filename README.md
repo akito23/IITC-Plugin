@@ -2,9 +2,11 @@
 
 Collection of IITC userscripts for Recon planning workflows.
 
+简体中文文档: [`README.zh-CN.md`](./README.zh-CN.md)
+
 ## Contents
 
-1. `wayfarer-planner.user.js` (UI name: **Recon Planner**)
+1. `recon-planner.user.js` (UI name: **Recon Planner**)
 2. `Recon-Range.user.js` (UI name: **Recon Range**)
 
 ## Requirements
@@ -22,7 +24,7 @@ Collection of IITC userscripts for Recon planning workflows.
 3. Copy one of the files in this repository and paste it.
 4. Save and reload IITC.
 
-## Plugin: Recon Planner (`wayfarer-planner.user.js`)
+## Plugin: Recon Planner (`recon-planner.user.js`)
 
 ### What it does
 
@@ -84,4 +86,3 @@ The backend is expected to return the saved candidate JSON for create/update.
 
 - Both scripts rely on IITC internals and DOM structure. If IITC APIs change, updates may be required.
 - If layer entries exist but nothing is drawn, check zoom level and plugin toggles first.
-
